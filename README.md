@@ -1,2 +1,2 @@
 # slearngit
-Git repository for Git and GitHub traning Siplilearn
+Git repository for Git and GitHub traning Simplilearn
